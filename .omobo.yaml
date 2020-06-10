@@ -1,2 +1,7 @@
 ---
-version: '1'
+version: '1.0'
+
+default:
+  variables:
+    test1: 1
+    test2: 2
